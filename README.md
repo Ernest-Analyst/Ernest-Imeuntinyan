@@ -44,4 +44,4 @@ To become a highly skilled data analyst capable of solving dynamic operational, 
 1. LinkedIn: www.linkedin.com/in/ernest-imeuntinyan
 2. Email: luccieking@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernest-Analysis&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernest-Analyst&show_icons=true)
